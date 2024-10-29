@@ -10,7 +10,7 @@
 - **프로젝트 설명**: YOLO 모델을 사용하여 영상 속 유동인구를 실시간으로 감지하고, 입장 및 퇴장 수를 카운트하는 시스템.
 - **주요 기능**: 사람 객체 탐지, 입장 및 퇴장 카운팅, 누적 인원 계산.
 - **시연 이미지**:
-    - people_counts_screenshot.png
+    (people_counts_screenshot.png)
     [people_counts_screenshot.png]
     (https://github.com/con-stella/pilot/blob/main/people_counts_screenshot.png)
 - **코랩 코드**
