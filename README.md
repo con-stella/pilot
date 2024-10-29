@@ -14,6 +14,19 @@
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:  
   ![유동인구 카운트 영상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
+- **코랩 코드**
+  https://colab.research.google.com/drive/17mwZphEaOnQRPJLuBWRE0CSj7_UJP92y?usp=sharing
+
+---
+
+### 2. 폐결절 찾는 신경망 
+- **프로젝트 설명**: 
+- **주요 기능**: 
+- **관련 링크**:
+  - [YOLO 모델 다운로드]()
+  - [알림 시스템 API 문서]()
+- **시연 영상**:  
+  ![도둑 감지 영상](https://user-images.githubusercontent.com/yourusername/your-video-file2.mp4)
 
 ---
 
