@@ -30,7 +30,7 @@
   - https://project01-mfjzscvhtgs7pva9nagmlm.streamlit.app/
   
 - **구현 코드**
-  - [https://colab.research.google.com/drive/17mwZphEaOnQRPJLuBWRE0CSj7_UJP92y?usp=sharing](https://github.com/con-stella/project_01/blob/main/app_chatbot.py)
+  - app_QnA_Bot.py
 - **관련 링크**:
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
