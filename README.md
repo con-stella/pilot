@@ -27,7 +27,7 @@
 - **시연 이미지**:
    ![시연 이미지](https://github.com/con-stella/pilot/blob/main/demonstration_QnA_Bot.png)
 - **스트림릿 홈페이지**
-  - https://project01-yjchucdd4sbjwbagygjnsa.streamlit.app/
+  - https://project01-mfjzscvhtgs7pva9nagmlm.streamlit.app/
   
 - **구현 코드**
   - [https://colab.research.google.com/drive/17mwZphEaOnQRPJLuBWRE0CSj7_UJP92y?usp=sharing](https://github.com/con-stella/project_01/blob/main/app_chatbot.py)
