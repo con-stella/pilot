@@ -25,10 +25,12 @@
 - **프로젝트 설명**: SentenceTransformer 모델을 활용하여 프로젝트의 개요를 답변해주는 챗봇 시스템. 
 - **주요 기능**: 사용자의 질문과 유사한 지정 질문을 탐색하여 지정 답변을 출력.
 - **시연 이미지**:
-   !([시연 이미지](https://github.com/con-stella/pilot/blob/main/demonstration_QnA_Bot.png))
-    
-- **코랩 코드**
-  - https://colab.research.google.com/drive/17mwZphEaOnQRPJLuBWRE0CSj7_UJP92y?usp=sharing
+   ![시연 이미지](https://github.com/con-stella/pilot/blob/main/demonstration_QnA_Bot.png)
+- **스트림릿 홈페이지**
+   https://project01-yjchucdd4sbjwbagygjnsa.streamlit.app/
+  
+- **구현 코드**
+  - [https://colab.research.google.com/drive/17mwZphEaOnQRPJLuBWRE0CSj7_UJP92y?usp=sharing](https://github.com/con-stella/project_01/blob/main/app_chatbot.py)
 - **관련 링크**:
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
